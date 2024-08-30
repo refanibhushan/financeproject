@@ -1,1 +1,3 @@
 hello I am creating this new file in feature1.
+
+Hi I am adding this new line in the main branch after cloning to the Azure DevOps.
